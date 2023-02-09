@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-    <view>{{msg}}
+    <view>{{msg}}</view>
   </view>
 
 </template>
